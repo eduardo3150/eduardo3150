@@ -1,4 +1,5 @@
-### Hi there 👋
+![Eduardo Chavez's Stats](https://github-readme-stats.vercel.app/api?username=eduardo3150&show_icons=true)
+
 
 <!--
 **eduardo3150/eduardo3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
